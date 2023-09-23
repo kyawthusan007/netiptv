@@ -243,9 +243,9 @@ https://179720687.global.cdnfastest.com/live/sd-y0or5jhn48vxqwz/chunklist_w14907
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhn4n6eqwz/chunklist_w1605132912.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE C5
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT-vIe_yosi594BrcNTxGpLEToykfn1DU3pem-YPmv9Q36fE4_19L807oa8X5Vz0xNLjvhY1X2Zjdxdkf4JioZpbpOGQZQHHmYtdvzVb9kqBifge-H-wY1q8E2-xmnPGFD92heVmTORXaOr3xOwruF6B2e7XjWQcLGVSvM-iBAZfDYcZK5uSE31XlMdBvNBcReVsAkKJS0H76-YCVf0KWxYLOprn9CKVdQYlgkBeNIDfuQrvxGkCRnQMiNDRaPDJvvQ.m3u8?u=1695440087
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT-vIe_yosi594BrcNTxGpLEToykfn1DU3pem-YPmv9Q3NmpuTD3OJWjKmR-013_n_WnGKt7fEKkwJUyS3TG-Z_UkoH_68GYhvbCi7BB0w2b3XOUmx8SKfEqW9ixRWTSmW2t7Cqav_w5HGoHqZlk20Czik_bZOEf1ONLWz_Z4_IhECIuwV3ldStfit5i-Mgo2dctXQi8Gun24ke0_NLCOnZ-6y8MZ5FZXLyfPm0WtFvY3cqMD5OiQK1_pJE9mf3N22Q.m3u8?u=1695457201
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE C6
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT84z42HGUaE9mCRKSQnrT4KIl8NGrVfiRnbgOf2kQm0VUDrCVptpEAppFAvgDggF14NX3nnsriTFny76Sq9zYTrGiKjJe-XP4BDIKtkrhQ2_gk-_cLxd_bbqatA8rqoHX0fgbZk5bY3-x8Yt8SRy3I9PtooVSWg6YdbNcJuf9PAAZPUGrwqnfHrE7tPfbTUMlIJsa-Iaq5lqyGMmfd3Gw78BngEFUycHUUs71syNVle07QJToj-z5V6giRYif1xxpw.m3u8?u=1695440087
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT84z42HGUaE9mCRKSQnrT4KIl8NGrVfiRnbgOf2kQm0Vk9S1pL1G0LyWbQ1t-r2wQE2C4y_eHdQX3cWwtps2H0G4JI36HH5mw9k7F743CyWImQGEnL-nuPW6u3V3pCmvv2FEWLTUz9kzhb3bejAcF6UtZ1S8y6Spfkjww0Z1KTmsgHZBZK3yv20v0HJpiOzdQVpqUvzcluP_vcfxkJc7rgaS-o6Cp_T5IbWkf7eOGc9ztMFeKZ7roDlWC0sDo2Kg8w.m3u8?u=1695457201
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
