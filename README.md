@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5yjjR2Hn/box6.jpg" group-title="FREE FOR 🖥 WATCH",WELCOME STB MANIA                                   
 http://tvkuonline.my.id:25461/riyad/riyad/1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 1
-http://tvkuonline.my.id:25461/riyad/riyad/2
+https://www.dropbox.com/scl/fi/4n4cakr0yacm8laqry9z9/Rembulan-Malam-Difarina-Indra-feat-Fendik-Adella-OM-ADELLA.mp4?rlkey=e6008rikzc5tpgtvgsycqitcd&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 2
 https://www.dropbox.com/scl/fi/b6be7lm1qymmr9264c3au/NEMU-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=2pbiflnjiu2toaiizgcymjf2g&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 3
@@ -15,7 +15,10 @@ https://www.dropbox.com/scl/fi/wofixur7weq872n1lwams/NEMEN-Difarina-Indra-Adella
 https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2023-FULL-JAPP-THOHIROL-QOLBI.mp4?rlkey=jati9puwkt0a2qbnzmnr5o3zp&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 6
 https://www.dropbox.com/scl/fi/vrwej8ka3drq8v7ve7nt2/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=u3m77is2noft4ct7t7ex26hmp&dl=1
-
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 7
+https://www.dropbox.com/scl/fi/csb6lcvckltky7fqwc3f3/RAISO-DADI-SIJI-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=ghj0gkhj7msgskg5hp3a80wgh&dl=1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 8
+https://www.dropbox.com/scl/fi/ev0hdtc8031lhehgiqo5v/PANTUN-JANDA-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=sk8n1we435gt21p5om116w3bg&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XvPwDcVM/DJ.jpg" group-title="FREE FOR 🖥 WATCH",​DJ
 http://tvkuonline.my.id:25461/riyad/riyad/6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/k4DT2g5C/Channel-Jowo.png" group-title="FREE FOR 🖥 WATCH",JOWO CHANNEL
@@ -237,14 +240,12 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE VIZEL KOBE VS CEREZO OSAKA
-https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE KYOTO SANGA VS HIROSHIMA
-https://179720687.global.cdnfastest.com/live/sd-965mkyh20eovr1g/chunklist_w199985385.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE
+https://mo3ad@b7i4j3n3.stackpathcdn.com/unrecord2/1695472507/src/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE C5
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT-vIe_yosi594BrcNTxGpLEToykfn1DU3pem-YPmv9Q3NmpuTD3OJWjKmR-013_n_WnGKt7fEKkwJUyS3TG-Z_UkoH_68GYhvbCi7BB0w2b3XOUmx8SKfEqW9ixRWTSmW2t7Cqav_w5HGoHqZlk20Czik_bZOEf1ONLWz_Z4_IhECIuwV3ldStfit5i-Mgo2dctXQi8Gun24ke0_NLCOnZ-6y8MZ5FZXLyfPm0WtFvY3cqMD5OiQK1_pJE9mf3N22Q.m3u8?u=1695457201
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE C6
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT84z42HGUaE9mCRKSQnrT4KIl8NGrVfiRnbgOf2kQm0Vk9S1pL1G0LyWbQ1t-r2wQE2C4y_eHdQX3cWwtps2H0G4JI36HH5mw9k7F743CyWImQGEnL-nuPW6u3V3pCmvv2FEWLTUz9kzhb3bejAcF6UtZ1S8y6Spfkjww0Z1KTmsgHZBZK3yv20v0HJpiOzdQVpqUvzcluP_vcfxkJc7rgaS-o6Cp_T5IbWkf7eOGc9ztMFeKZ7roDlWC0sDo2Kg8w.m3u8?u=1695457201
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
