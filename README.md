@@ -237,10 +237,11 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE japan vs argentina women
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhn48vxqwz/chunklist_w1490777512.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE mexico vs puertorico women
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhn4n6eqwz/chunklist_w1605132912.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE VIZEL KOBE VS CEREZO OSAKA
+https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE KYOTO SANGA VS HIROSHIMA
+https://179720687.global.cdnfastest.com/live/sd-965mkyh20eovr1g/chunklist_w199985385.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE C5
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT-vIe_yosi594BrcNTxGpLEToykfn1DU3pem-YPmv9Q3NmpuTD3OJWjKmR-013_n_WnGKt7fEKkwJUyS3TG-Z_UkoH_68GYhvbCi7BB0w2b3XOUmx8SKfEqW9ixRWTSmW2t7Cqav_w5HGoHqZlk20Czik_bZOEf1ONLWz_Z4_IhECIuwV3ldStfit5i-Mgo2dctXQi8Gun24ke0_NLCOnZ-6y8MZ5FZXLyfPm0WtFvY3cqMD5OiQK1_pJE9mf3N22Q.m3u8?u=1695457201
