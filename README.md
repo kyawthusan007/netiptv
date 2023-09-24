@@ -257,9 +257,9 @@ https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 
 ---------------------------ASIAN GAMES CHANNEL---------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 1
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/16622
+https://1123139281.cdn.khmer-hd.com/may8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 2
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/16621
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/16622
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES" ,LIVE asian games 3
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/56191
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 4
