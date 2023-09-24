@@ -264,31 +264,20 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/16622
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/56191
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 4
 https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 5
-http://asiad1.cvmtv.site:8002/EV05?token=asiad
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 6
-http://stream.cvmtv.site:8002/EV06?token=asiad
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES" ,LIVE asian games 7
-http://asiad1.cvmtv.site:8002/EV06?token=asiad
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 8
-http://asiad2.cvmtv.site:8002/EV06?token=asiad
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 9
-http://stream.cvmtv.site:8002/EV05?token=asiad
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 5
 http://asiad2.cvmtv.site:8002/EV05?token=asiad
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 11
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 6
 http://stream.cvmtv.site:8002/EV04?token=asiad
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 12
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 7
 http://asiad1.cvmtv.site:8002/EV04?token=asiad
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 13
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 8
 http://asiad2.cvmtv.site:8002/EV04?token=asiad
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 14
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 9
 http://stream.cvmtv.site:8002/EV01?token=asiad
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 15
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 10
 http://asiad1.cvmtv.site:8002/EV01?token=asiad
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 16
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 11
 http://asiad2.cvmtv.site:8002/EV01?token=asiad
 
 
