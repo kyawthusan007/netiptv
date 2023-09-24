@@ -140,7 +140,7 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298570
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 2
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298571
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3616
+https://nonton.site:8443/live/ekos/7483/51.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 5
