@@ -35,7 +35,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/157591
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",GTV
 https://nonton.site:8443/live/ekos/7483/49285.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
