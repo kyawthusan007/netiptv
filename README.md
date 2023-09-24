@@ -136,9 +136,9 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162138
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhz2o6eqwz/chunklist_w404145794.m3u8
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 1
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/298570
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298570
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 2
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/298571
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298571
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
 http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3616
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
