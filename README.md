@@ -256,11 +256,11 @@ https://nonton.site:8443/live/ekos/7483/49794.m3u8
 https://nonton.site:8443/live/ekos/7483/46366.m3u8
 ---------------------------ASIAN GAMES CHANNEL---------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 1
-https://1123139281.cdn.khmer-hd.com/may8/chunks.m3u8
+http://blue4k.net:8880/milad0406/Andrews2022/351876
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 2
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/16622
+http://blue4k.net:8880/milad0406/Andrews2022/351877
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES" ,LIVE asian games 3
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/56191
+http://blue4k.net:8880/milad0406/Andrews2022/351878
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 4
 https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 
