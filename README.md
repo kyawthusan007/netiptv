@@ -356,9 +356,9 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/57
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="▶️SPORTS◀️",astro Super Sport 1
 https://m3.ballnaja.com/live/assp1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
-https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
+http://blue4k.net:8880/milad0406/Andrews2022/318917
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfXgcrB9/Astro-ASSP3.png" group-title="▶️SPORTS◀️",astro Super Sport 3
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/157557
+http://blue4k.net:8880/milad0406/Andrews2022/318918
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV4m04Vy/Astro-ASSP4.png" group-title="▶️SPORTS◀️",ASTRO SUPER SPORT 4
 https://m3.ballnaja.com/live/assp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="▶️SPORTS◀️", ASTRO SUPER SPORT 5
