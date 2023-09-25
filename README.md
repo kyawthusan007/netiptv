@@ -2038,7 +2038,7 @@ https://www.dropbox.com/s/50xasxs7dpqp892/dzifp-unlocked2023.mp4?dl=1
 https://d71amw.bl.files.1drv.com/y4mZy-3nzCjN4rZVz5s8UvThmii2bL0aSpcnyfNvDI1iTnooezXNhDjtS4YfvPdvcOzYXbiWhkgWr1z835TPx6820ZQIPHGsBUHVjJrfiZ2Lgk0Xb5mWWKT1swvbOXLJ0BAYUXg_dNp7pypl2vGPMciolaQ6WynbqvR_YwwwWsg3wyst0wBbTbjbki6WM3suPhB-Phgw0Xm1YIwlR5fbvlo3Q
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqL8zEfnW61W5koZRS3UB6lTFa8bCY5AEjbg&usqp=CAU" group-title="MOVIE 2023",We Have A Ghost (2023)
 https://os8ncq.bn.files.1drv.com/y4msw_INM7T5PYVeetJc4Yk5t78BXaBIjVgZ6LaxPaQ_KPjdetQN07WQMOwvKQAspuzoU5zuBHW0_IxQ6mjynZTo3bfEdUnOSFIxPtssgKda1hNi5xQa2mHya3JMiSRGJW9KtEKkDty3lWi2N3wneYfpEqmfOM6OsTyvMw9H8tsOqKDL1h9859iEQd_oGkl6C2jH1CpERhmqWDSXN2eKljXtw
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu19.png" group-title="Black Panther",Black Panther (2018)
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu19.png" group-title="MOVIE 2023",,Black Panther (2018)
 http://abf.filmbluray.id/gauugz2
 
 
