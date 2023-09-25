@@ -3,21 +3,21 @@
  
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/NFxn8DMd/ENJOY.jpg" group-title="FREE FOR 🖥 WATCH",WELCOME STB MANIA                                   
 http://tvkuonline.my.id:25461/riyad/riyad/1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",REMBULAN MALAM
 https://www.dropbox.com/scl/fi/4n4cakr0yacm8laqry9z9/Rembulan-Malam-Difarina-Indra-feat-Fendik-Adella-OM-ADELLA.mp4?rlkey=e6008rikzc5tpgtvgsycqitcd&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",NEMU
 https://www.dropbox.com/scl/fi/b6be7lm1qymmr9264c3au/NEMU-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=2pbiflnjiu2toaiizgcymjf2g&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 3
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",SATU RASA CINTA
 https://www.dropbox.com/scl/fi/2cse0qmhfo07pxch9rz4b/SATU-RASA-CINTA-Difarina-Indra-Adella-ft-Fendik-Adella-OM-ADELLA.mp4?rlkey=qdn5p6x383pvsu9bssxkth22x&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 4
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",NEMEN
 https://www.dropbox.com/scl/fi/wofixur7weq872n1lwams/NEMEN-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=gvocvnt103r994mcalpgsd9rm&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 5
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",SHOLAWAT
 https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2023-FULL-JAPP-THOHIROL-QOLBI.mp4?rlkey=jati9puwkt0a2qbnzmnr5o3zp&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 6
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",SIA SIA MENGHARAP CINTAMU
 https://www.dropbox.com/scl/fi/vrwej8ka3drq8v7ve7nt2/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=u3m77is2noft4ct7t7ex26hmp&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 7
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",RA ISO DADI SIJI
 https://www.dropbox.com/scl/fi/csb6lcvckltky7fqwc3f3/RAISO-DADI-SIJI-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=ghj0gkhj7msgskg5hp3a80wgh&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",PANTUN JANDA
 https://www.dropbox.com/scl/fi/ev0hdtc8031lhehgiqo5v/PANTUN-JANDA-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=sk8n1we435gt21p5om116w3bg&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XvPwDcVM/DJ.jpg" group-title="FREE FOR 🖥 WATCH",​DJ
 http://tvkuonline.my.id:25461/riyad/riyad/6
