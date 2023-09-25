@@ -164,9 +164,9 @@ http://starshare.live:8080/live/Agness/Agness/98868.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 3
 https://stream.live12.ir/hls2/persiana.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162591
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162591
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162592
+http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 6
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 7
@@ -239,9 +239,9 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
- 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE only 1
-https://mo3ad@b7i4j3n3.stackpathcdn.com/unrecord2/1695472507/src/live.m3u8
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE only 2
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE C5
@@ -283,7 +283,7 @@ http://asiad2.cvmtv.site:8002/EV01?token=asiad
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",T SPORT
 https://edge2.laotv.la/live/TSports7/sc-gaFECQ/v0_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",PPTV HD
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/281639
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/281639
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",TRUE4U 
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/54319
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",NBT
@@ -358,7 +358,7 @@ https://m3.ballnaja.com/live/assp1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
 https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfXgcrB9/Astro-ASSP3.png" group-title="▶️SPORTS◀️",astro Super Sport 3
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/157557
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/157557
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV4m04Vy/Astro-ASSP4.png" group-title="▶️SPORTS◀️",ASTRO SUPER SPORT 4
 https://m3.ballnaja.com/live/assp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="▶️SPORTS◀️", ASTRO SUPER SPORT 5
