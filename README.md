@@ -159,7 +159,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 1
 http://starshare.live:8080/live/Agness/Agness/98867.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 2
-http://starshare.live:8080/live/Agness/Agness/98868.ts
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT7EUo55-AKINJ5On48aTlSg/m3u8
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 3
 https://stream.live12.ir/hls2/persiana.m3u8
