@@ -629,7 +629,7 @@ http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3246.ts
  
 ----------------------------------------------------MOVIES-------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.postimg.cc/wTgGGfhr/HBO.jpg" group-title="MOVIES", HBO fhd
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3008.m3u8
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197972
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="MOVIES",HBO SIGNATURE
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3009.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
@@ -637,7 +637,7 @@ http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3010.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3011.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3012.m3u8
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197964
  
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN: SONY PIX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="MOVIES", SONY PIX HD
 http://humiptv.live:8080/live/0192838773/9948381838/147.ts
