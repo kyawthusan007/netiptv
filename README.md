@@ -168,7 +168,7 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162591
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 6
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
+http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 7
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1327365&extension=ts&play_token=lwAilS7Izs
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 8
