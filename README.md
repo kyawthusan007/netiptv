@@ -1,7 +1,7 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
  
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5yjjR2Hn/box6.jpg" group-title="FREE FOR 🖥 WATCH",WELCOME STB MANIA                                   
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/NFxn8DMd/ENJOY.jpg" group-title="FREE FOR 🖥 WATCH",WELCOME STB MANIA                                   
 http://tvkuonline.my.id:25461/riyad/riyad/1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 1
 https://www.dropbox.com/scl/fi/4n4cakr0yacm8laqry9z9/Rembulan-Malam-Difarina-Indra-feat-Fendik-Adella-OM-ADELLA.mp4?rlkey=e6008rikzc5tpgtvgsycqitcd&dl=1
