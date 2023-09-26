@@ -370,7 +370,8 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 5
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 6
-http://kuchini.site:8080/Juliano/29bc4eee/270
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 7
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="▶️SPORTS◀️", Usee Sport 1
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298577
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="▶️SPORTS◀️", Usee Sport 2
