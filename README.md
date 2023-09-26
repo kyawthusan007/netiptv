@@ -181,6 +181,12 @@ http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1327365&extension=ts&play_token=lwAilS7Izs
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 8
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110622&extension=ts&play_token=BrD8bb6Q6I
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 1
 http://starshare.live:8080/live/Agness/Agness/6625.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈"​,LA LIGA 2
@@ -188,6 +194,10 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16510_&extens
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 3
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 1
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 2
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=692383&extension=ts&play_token=SdRCQMYhc7
@@ -410,13 +420,18 @@ https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sportihd/default/index.mpd
 #KODIPROP: inputstream.adaptive.license key-5d67ce7ac87a934bee842e58c294e221:0e93cc2313d9b969fe3633c810388a84 
 https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="▶️SPORTS◀️",astro Super Sport 1
-https://m3.ballnaja.com/live/assp1/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
+http://1.yurend.xyz/dash-wv/linear/1601/default_primary.mpd
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
 http://blue4k.net:8880/milad0406/Andrews2022/318917
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfXgcrB9/Astro-ASSP3.png" group-title="▶️SPORTS◀️",astro Super Sport 3
 http://blue4k.net:8880/milad0406/Andrews2022/318918
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV4m04Vy/Astro-ASSP4.png" group-title="▶️SPORTS◀️",ASTRO SUPER SPORT 4
-https://m3.ballnaja.com/live/assp4/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506  
+http://1.yurend.xyz/dash-wv/linear/2506/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="▶️SPORTS◀️", ASTRO SUPER SPORT 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
 
