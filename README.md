@@ -352,7 +352,14 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/53
 http://magott.net:80/okota380/RvPBwTrjvRPM/55
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="▶️SPORTS◀️" tvg-logo="http://magott.net:80/images/4629368f3ebfb96fecf3f35c9263d9c6.png",BeINSport ENGLISH 3 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/57
- 
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://thumbnail.png",K+ Sport 1
+#KODIPROP: inputstream.adaptive.license_type-clearkey
+#KODIPROP: inputstream.adaptive.license key-5d67ce7ac87a934bee842e58c294e221:0e93cc2313d9b969fe3633c810388a84 
+https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sportihd/default/index.mpd
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://thumbnail.png",K+ Sport 2
+#KODIPROP: inputstream.adaptive.license_type-clearkey
+#KODIPROP: inputstream.adaptive.license key-5d67ce7ac87a934bee842e58c294e221:0e93cc2313d9b969fe3633c810388a84 
+https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="▶️SPORTS◀️",astro Super Sport 1
 https://m3.ballnaja.com/live/assp1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
