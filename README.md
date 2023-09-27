@@ -284,7 +284,7 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b1096000_slENG.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 5
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b1096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 6
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b1096000_slENG.m3u8
+http://iptv.nextnet.krd:25461/nextnet/3738/180
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 7
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b1096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 8
