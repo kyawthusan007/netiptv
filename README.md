@@ -632,19 +632,19 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 -----------------------------------------------------------------YACINE TV--------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS 1
-http://zeintv.xyz:8080/moha/2020/129172
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1735
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2
-http://zeintv.xyz:8080/moha/2020/203304
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1737
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3
-http://zeintv.xyz:8080/moha/2020/129167
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1739
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  4
-http://zeintv.xyz:8080/moha/2020/203309
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/7450
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  5
-http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3245.ts
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/7448
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  6
-http://zeintv.xyz:8080/moha/2020/129165
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8224
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  7
-http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49383.ts
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/16878
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  1 ENGLISH 4K
 http://4k.boxip.org:8080/698018479252002/2063753535/110746.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2 ENGLISH 4K
