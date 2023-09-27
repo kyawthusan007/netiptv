@@ -19,6 +19,8 @@ https://www.dropbox.com/scl/fi/vrwej8ka3drq8v7ve7nt2/SIA-SIA-MENGHARAP-CINTAMU-D
 https://www.dropbox.com/scl/fi/csb6lcvckltky7fqwc3f3/RAISO-DADI-SIJI-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=ghj0gkhj7msgskg5hp3a80wgh&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",PANTUN JANDA
 https://www.dropbox.com/scl/fi/ev0hdtc8031lhehgiqo5v/PANTUN-JANDA-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=sk8n1we435gt21p5om116w3bg&dl=1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ALBUM ADELLA
+https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Cintamu-Satu-Rasa-Cinta-Album-Pop-Melayu.mp4?rlkey=6rispuxqxqc58rrrxqzpsr5go&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XvPwDcVM/DJ.jpg" group-title="FREE FOR 🖥 WATCH",​DJ
 http://tvkuonline.my.id:25461/riyad/riyad/6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/k4DT2g5C/Channel-Jowo.png" group-title="FREE FOR 🖥 WATCH",JOWO CHANNEL
