@@ -119,8 +119,37 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df935
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8ZrVdbN/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.m3u8
-
-
+-----------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 1                         
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation51/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3a327c3
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 2 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation52/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=726867
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 3
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation53/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e60a65
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 4 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation54/51/20230918143309-01-139964.ts?=&mtv_session=0&m=1&encrypt=311c48c3e5&HlsSubType=2&HlsProfileId=1
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 5 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation55/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cacf7e
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 6 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation56/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=548904
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 7
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation57/51/20230918142949-01-140028.ts?=&mtv_session=0&m=1&encrypt=ab76e8&HlsSubType=2&HlsProfileId=1
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 8 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation58/51/20230918142833-01-140020.ts?=&mtv_session=0&m=1&encrypt=4a74fe&HlsSubType=2&HlsProfileId=1
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 9  
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation59/51/20230918142726-01-139994.ts?=&mtv_session=0&m=1&encrypt=8a76d4&HlsSubType=2&HlsProfileId=1
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 10 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation60/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=058c7b1
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 11 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation61/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f386db
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 12 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation62/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=db75ce
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 13 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation63/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9ffe2e
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 14 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation64/51/20230918142101-01-140130.ts?=&mtv_session=0&m=1&encrypt=016871&HlsSubType=2&HlsProfileId=1
+#EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo=" https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 15 
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation65/51/20230918141931-01-140140.ts?=&mtv_session=0&m=1&encrypt=5c5546&HlsSubType=2&HlsProfileId=1
 ---------------------------------------------------LIVE --------------------------------------------------------
 #EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 1
 https://cabor1.unregister.xyz/watermark/cabor_720p/index.m3u8
