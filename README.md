@@ -147,6 +147,63 @@ https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation63/51/01.m3u8?=&mt
 https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation64/51/20230918142101-01-140130.ts?=&mtv_session=0&m=1&encrypt=016871&HlsSubType=2&HlsProfileId=1
 #EXTINF:-1 tvg-id="ASIAN GAMES" tvg-logo="https://i.postimg.cc/Bb5RWFC3/ASIAN-GAMES.jpg" group-title="CHINA ASIAN GAMES",ASIAN GAMES 15 
 https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation65/51/20230918141931-01-140140.ts?=&mtv_session=0&m=1&encrypt=5c5546&HlsSubType=2&HlsProfileId=1
+
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG004/HLS/AG004-avc1_3000000=5-mp4a_96000_tha=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH5_512x512.png" group-title="ASIAN GAMES",AIS PLAY 5
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG005/HLS/AG005-avc1_3000000=5-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 6" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH6_512x512.png" group-title="ASIAN GAMES",AIS PLAY 6
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG006/HLS/AG006-avc1_3000000=4-mp4a_96000_tha=5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH7_512x512.png" group-title="ASIAN GAMES",AIS PLAY 7
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG007/HLS/AG007-avc1_3000000=5-mp4a_96000_tha=3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH8_512x512.png" group-title="ASIAN GAMES",AIS PLAY 8
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG008/HLS/AG008-avc1_3000000=5-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 9" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH9_512x512.png" group-title="ASIAN GAMES",AIS PLAY 9
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG009/HLS/AG009-avc1_3000000=5-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 10" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH10_512x512.png" group-title="ASIAN GAMES",AIS PLAY 10
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG010/HLS/AG010-avc1_3000000=5-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH11_512x512.png" group-title="ASIAN GAMES",AIS PLAY 11
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG011/HLS/AG011-avc1_3000000=4-mp4a_96000_tha=5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH12_512x512.png" group-title="ASIAN GAMES",AIS PLAY 12
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG012/HLS/AG012-avc1_3000000=4-mp4a_96000_eng=8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH13_512x512.png" group-title="ASIAN GAMES",AIS PLAY 13
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG013/HLS/AG013-avc1_3000000=4-mp4a_96000_tha=5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH14_512x512.png" group-title="ASIAN GAMES",AIS PLAY 14
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG014/HLS/AG014-avc1_3000000=4-mp4a_96000_tha=5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH15_512x512.png" group-title="ASIAN GAMES",AIS PLAY 15
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG015/HLS/AG015-avc1_3000000=5-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH16_512x512.png" group-title="ASIAN GAMES",AIS PLAY 16
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG016/HLS/AG016-avc1_3000000=5-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH17_512x512.png" group-title="ASIAN GAMES",AIS PLAY 17
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG017/HLS/AG017-avc1_3000000=5-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH18_512x512.png" group-title="ASIAN GAMES",AIS PLAY 18
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG018/HLS/AG018-avc1_3000000=5-mp4a_64000_tha=2.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",NBT
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23886
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",THAI TV5
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/162537
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",THAIRAT TV
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23909
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",WORK POINT
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23405
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",GMM25
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/146729
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",BBTV
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23853
+
 ---------------------------------------------------LIVE --------------------------------------------------------
 #EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 1
 https://cabor1.unregister.xyz/watermark/cabor_720p/index.m3u8
@@ -306,61 +363,6 @@ https://nonton.site:8443/live/ekos/7483/49794.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 https://nonton.site:8443/live/ekos/7483/46366.m3u8
 
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG004/HLS/AG004-avc1_3000000=5-mp4a_96000_tha=2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH5_512x512.png" group-title="ASIAN GAMES",AIS PLAY 5
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG005/HLS/AG005-avc1_3000000=5-mp4a_96000_tha=2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 6" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH6_512x512.png" group-title="ASIAN GAMES",AIS PLAY 6
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG006/HLS/AG006-avc1_3000000=4-mp4a_96000_tha=5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH7_512x512.png" group-title="ASIAN GAMES",AIS PLAY 7
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG007/HLS/AG007-avc1_3000000=5-mp4a_96000_tha=3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH8_512x512.png" group-title="ASIAN GAMES",AIS PLAY 8
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG008/HLS/AG008-avc1_3000000=5-mp4a_96000_tha=2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 9" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH9_512x512.png" group-title="ASIAN GAMES",AIS PLAY 9
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG009/HLS/AG009-avc1_3000000=5-mp4a_96000_tha=2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 10" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH10_512x512.png" group-title="ASIAN GAMES",AIS PLAY 10
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG010/HLS/AG010-avc1_3000000=5-mp4a_96000_tha=2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH11_512x512.png" group-title="ASIAN GAMES",AIS PLAY 11
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG011/HLS/AG011-avc1_3000000=4-mp4a_96000_tha=5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH12_512x512.png" group-title="ASIAN GAMES",AIS PLAY 12
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG012/HLS/AG012-avc1_3000000=4-mp4a_96000_eng=8.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH13_512x512.png" group-title="ASIAN GAMES",AIS PLAY 13
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG013/HLS/AG013-avc1_3000000=4-mp4a_96000_tha=5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH14_512x512.png" group-title="ASIAN GAMES",AIS PLAY 14
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG014/HLS/AG014-avc1_3000000=4-mp4a_96000_tha=5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH15_512x512.png" group-title="ASIAN GAMES",AIS PLAY 15
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG015/HLS/AG015-avc1_3000000=5-mp4a_96000_tha=2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH16_512x512.png" group-title="ASIAN GAMES",AIS PLAY 16
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG016/HLS/AG016-avc1_3000000=5-mp4a_96000_tha=2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH17_512x512.png" group-title="ASIAN GAMES",AIS PLAY 17
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG017/HLS/AG017-avc1_3000000=5-mp4a_96000_tha=2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN GAMES 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH18_512x512.png" group-title="ASIAN GAMES",AIS PLAY 18
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG018/HLS/AG018-avc1_3000000=5-mp4a_64000_tha=2.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",NBT
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23886
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",THAI TV5
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/162537
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",THAIRAT TV
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23909
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",WORK POINT
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23405
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",GMM25
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/146729
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",BBTV
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23853
 
 ---------------------------------------------SPORT-----------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 1
