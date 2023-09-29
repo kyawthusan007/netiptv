@@ -368,7 +368,7 @@ https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 2
 http://starshare.live:8080/live/Pirates/Pirates/150978.ts
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 3
-http://starshare.live:8080/live/Pirates/Pirates/151151.ts
+http://starshare.live:8080/live/Pirates/Pirates/143062.ts
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 4
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 5
@@ -648,19 +648,19 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 -----------------------------------------------------------------YACINE TV--------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS 1
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1735
+http://starshare.live:8080/live/Pirates/Pirates/206985.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1737
+http://starshare.live:8080/live/Pirates/Pirates/206986.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1739
+http://starshare.live:8080/live/Pirates/Pirates/206987.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  4
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/7450
+http://starshare.live:8080/live/Pirates/Pirates/206988.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  5
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/7448
+http://starshare.live:8080/live/Pirates/Pirates/206989.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  6
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8224
+http://starshare.live:8080/live/Pirates/Pirates/206990.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  7
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/16878
+http://starshare.live:8080/live/Pirates/Pirates/206991.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  1 ENGLISH 4K
 http://4k.boxip.org:8080/698018479252002/2063753535/110746.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2 ENGLISH 4K
