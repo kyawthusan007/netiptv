@@ -120,10 +120,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 1
 http://starshare.live:8080/live/Agness/Agness/98867.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 2
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF3bBOmz3nA78N8kB4fiGj8VSmQ-H6NRqENNZ6xImedE9Y8MBAApax0LE-faytcDuUmfbAzIAtoUsriP_NDAnFAGgEMZmnl5H2mQcPEINKZhD7KNyZ56GG9D6F-7qTrPOtcBL8rXyzlag8ZJxq9-mjbLons4-RWao7Lf635cxWbgOhCOlUZ6ET_ss2Fx-0EQGboQ9-9nmykajs1QqObi7KELGeQK_DHHMZ3pgCexuADi_scGiYZHEZYMQUHNr5KLIqdtQ1lGGX1U8W3jC-TVPZ7hgEJUkeMO-tQhcldD91woig.m3u8?u=1696045560
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF3bBOmz3nA78N8kB4fiGj8VSmQ-H6NRqENNZ6xImedE9YzNkKaECll7cPLNuaoasbTTA2Ozxyr_Xlaca3wGq3MVnpU8e8NNB7SujGkagTXavA3d6ttVq81m_yXmiey8RJqqx-BhfT2hTQjTLfBcldnH_OaTtYyAK9KI8fjqaRhPOBu3m2rQp7dq44uU1Q8KLoUeYGKS-YLlWvhD7Jwt3KU8huK0XYxE1RzRz-pw4l4SBpmlp7o4h0e7-15PHB457DTSf9mFGw-nKd8XJjJAEihptMD7_kk-q63qJZzqnCUx7A.m3u8?u=1696071935
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 3
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF3bBOmz3nA78N8kB4fiGj8VSmQ-H6NRqENNZ6xImedE9YzNkKaECll7cPLNuaoasbTTA2Ozxyr_Xlaca3wGq3MVWFt7oqJvwNnQTbf1zxc_wgMNrJ1iJj3Dryxr6xprSzth1UTURsbU0zW2kV6pteqPpnio-Ftwi9z98gPrfRQPaeRpBAc7asXbuRG3_uK-etzjjhsBPlh_c4Rzrz2mzrOa-Dy6wloH5jUiLiQpaRcge6Ybqvdl_tazHTgW4EzxPqsBzUIRRxYD6kvPUKPDE9bTO01IzM6HyxoRyUQSwkaEBA.m3u8?u=1696045560
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF3bBOmz3nA78N8kB4fiGj8VSmQ-H6NRqENNZ6xImedE9Y8MBAApax0LE-faytcDuUmfbAzIAtoUsriP_NDAnFAGtlHJwVLBB9Nr4EgW-SFzkWk3NT9uNuJbtODQF0liiYFu3QBgyjzeqOq_cBsB8OFw_XdaERIcmqfLgqG19x0bigc7NMLzLjkaW9Wc_4XfuEzxL1Wpt1mhf55_GQMmB1WDGba7tOl3c7kgdDEIe_IfnXQepuL8m_LI1ujQwQ2G6UKKdq4Hp86B48jNxU_IDOhzkzPJ1-y1Gz9OvbMftiJf-Q.m3u8?u=1696071935
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 4
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162591
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
