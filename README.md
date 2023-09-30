@@ -321,11 +321,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/298570
 #EXTINF:0 tvg-logo="https://i.postimg.cc/R0rsC34J/BWF.jpg" group-title="🚩LIVE EVENT🚩", BWF 3
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/R0rsC34J/BWF.jpg" group-title="🚩LIVE EVENT🚩", BWF 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506  
-http://1.yurend.xyz/dash-wv/linear/2506/default_primary.mpd
- 
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="APPLE+ 1 PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="🇱🇷MLS SPORTS🇱🇷", APPLE+ 1 
