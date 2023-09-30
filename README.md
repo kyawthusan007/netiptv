@@ -293,7 +293,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162138
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhz2o6eqwz/chunklist_w404145794.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 1
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298570
