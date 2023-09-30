@@ -204,23 +204,7 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/146729
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",BBTV
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23853
 
----------------------------------------------------LIVE --------------------------------------------------------
-#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 1
-https://cabor1.unregister.xyz/watermark/cabor_720p/index.m3u8
 
-
-#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 2
-https://cabor2.unregister.xyz/watermark/cabor_720p/index.m3u8
-#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 3
-https://cabor3.unregister.xyz/watermark/cabor.m3u8
-#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 4
-https://cabor5.unregister.xyz/watermark/cabor_720p/index.m3u8
-#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 5
-https://cabor6.unregister.xyz/watermark/cabor.m3u8
-#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 6
-https://cabor7.unregister.xyz/watermark/cabor.m3u8
-#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 7
-https://cabor8.unregister.xyz/watermark/cabor_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",PRO LIGA
 http://smartv.pro:80/live/828282/484848/39531.ts
