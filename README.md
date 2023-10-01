@@ -181,16 +181,16 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=qBeBPHlYKO
+http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259290
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 3
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=317021&extension=ts&play_token=WzEiY89Z7Q
+http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259291
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&extension=ts&play_token=rNx65mVDBT
+http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259292
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn
+http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259293
 
 
 
