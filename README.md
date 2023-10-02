@@ -1360,25 +1360,25 @@ http://starshare.live:8080/live/Pirates/Pirates/143101.ts
 http://starshare.live:8080/live/Pirates/Pirates/143102.ts 
 #EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports
 http://starshare.live:8080/live/Pirates/Pirates/143059.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 2 (D)
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 2 
 http://starshare.live:8080/live/Pirates/Pirates/143060.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 2 50fps (D)
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 2 
 http://starshare.live:8080/live/Pirates/Pirates/143061.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports 3
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports 3
 http://starshare.live:8080/live/Pirates/Pirates/143062.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports 3 50fps (D)
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports 3 
 http://starshare.live:8080/live/Pirates/Pirates/143063.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports 50fps (D)
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports 50
 http://starshare.live:8080/live/Pirates/Pirates/143064.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Bernama
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Bernama
 http://starshare.live:8080/live/Pirates/Pirates/143065.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Bloomberg TV
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Bloomberg TV
 http://starshare.live:8080/live/Pirates/Pirates/143067.ts
 #EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",BOO
 http://starshare.live:8080/live/Pirates/Pirates/143068.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", Boomerang
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", Boomerang
 http://starshare.live:8080/live/Pirates/Pirates/143069.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Cartoon Network
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Cartoon Network
 http://starshare.live:8080/live/Pirates/Pirates/143070.ts 
 
 
