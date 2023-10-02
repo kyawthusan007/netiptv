@@ -1255,8 +1255,7 @@ http://51.210.199.18/hls/stream.m3u8
 -----------------------------------------------------------ASTRO---------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="🇲🇾MALAYSIA🇲🇾",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",TV OKEY
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303975 
+
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXgNcgNk/Astro-Ceria.png" group-title="🇲🇾MALAYSIA🇲🇾",CERIA
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157481
@@ -1266,66 +1265,10 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157481
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-title="🇲🇾MALAYSIA🇲🇾",TV3
-http://meu02.cularu.com:8880/3mmk270004/71579989/1732
-#EXTINF:-1 tvg-id="" tvg-name="MY: ARENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",ARENA
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303839
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: ARENA_HD_50fps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",ARENA_HD
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303841
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Arena 
-
-#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" group-title="🇲🇾MALAYSIA🇲🇾",Arena Bola
-http://meu02.cularu.com:8880/3mmk270004/71579989/1703
-#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://telegra.ph/file/5b6fa9894d886d15e7a6b.png" group-title="🇲🇾MALAYSIA🇲🇾",Arena Bola 2
-http://meu02.cularu.com:8880/3mmk270004/71579989/1696
-#EXTINF:-1 tvg-id="" ch-number="1408" tvg-name="Astro SuperSport HD" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport
-http://meu02.cularu.com:8880/3mmk270004/71579989/59220
-#EXTINF:-1 tvg-id="" ch-number="1410" tvg-name="Astro SuperSport 2 HD" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
-http://meu02.cularu.com:8880/3mmk270004/71579989/1721
-
-#EXTINF:-1 tvg-id="" ch-number="1414" tvg-name="Astro SuperSport 4 HD" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4
-http://meu02.cularu.com:8880/3mmk270004/71579989/59217 
 #EXTINF:-1 tvg-id="TV6" ch-number="108" tvg-name="TV6" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png",TV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier 1 (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro Premier 1 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303852
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier 2 (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Premier 2 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303853
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro PRIMA
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303854
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro RANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro RANIA
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303855
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro Supersport
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303858
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro Supersport 2
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303860
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 2 (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro Supersport 2 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303861
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 2 UHD/4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Supersport 2 UHD/4K
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303862
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Supersport 3
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303864
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Supersport 4
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303867
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 4 (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro Supersport 4 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303868
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 4_50fps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Supersport 4
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303869
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Supersport 5
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303870
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport Feed 1 (FHD) (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Supersport Feed 1 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303873
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport_50fps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Supersport
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303874 
-
 #EXTINF:-1 tvg-id="" ch-number="1300" tvg-name="Astro Awani HD" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="" ch-number="1301" tvg-name="Berita RTM" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
@@ -1336,192 +1279,40 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 1
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1722
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",MY014:Super Sport 2
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1721
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",MY015:Super Sport 3
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1720
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 4
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1719
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 5
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1713
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP4 HD
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59217
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP3 HD
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59218
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP HD
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59220
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP2 HD
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59219
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 6
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71079
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro Premier 2
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71105
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO Rugby Pass
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71108
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO Cricket
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71109
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 3
+http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71146
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: 8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", 8TV
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303828
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",ANIMAL PLANET
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303833
- 
- 
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro AWANI
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303844
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro AWANI (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro AWANI (D)
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303845
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Box Office" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro Box Office
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303848
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro OASIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro OASIS
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303851
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro TUTOR TV SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro TUTOR TV SK
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303875
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO_AURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO_AURA
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303881
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO_CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO_CRICKET
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303882
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO_CRICKET_50fps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾"ASTRO_CRICKET
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303883
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Awesome TV
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303885
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303887
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 2 (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾"beIN Sports 2)
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303888
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 2 50fps (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 2
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303889
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 3 (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 3
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303890
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 3 50fps (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 3
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303891
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 50fps (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾" beIN Sports 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303894
-#EXTINF:-1 tvg-id="" tvg-name="MY: Bernama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Bernama
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303895
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",BOOMERANG
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303899
-#EXTINF:-1 tvg-id="" tvg-name="MY: CARTOON_NTWK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",ARTOON_NTWK
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303900
-#EXTINF:-1 tvg-id="" tvg-name="MY: CCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", CCM
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303901
-#EXTINF:-1 tvg-id="" tvg-name="MY: CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",CCTV4
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303902
-#EXTINF:-1 tvg-id="" tvg-name="MY: CELESTIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",CELESTIAL
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303903
-#EXTINF:-1 tvg-id="" tvg-name="MY: CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", CGTN
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303904
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",CINEMAX
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303906
-#EXTINF:-1 tvg-id="" tvg-name="MY: CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",CNA
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303907
-#EXTINF:-1 tvg-id="" tvg-name="MY: CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", CNBC
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303908
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",CNN
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303910
-#EXTINF:-1 tvg-id="" tvg-name="MY: Crime Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Crime Investigation
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303911
-#EXTINF:-1 tvg-id="" tvg-name="MY: CTI_ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", CTI_ASIA
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303912
-#EXTINF:-1 tvg-id="" tvg-name="MY: DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", DISCOVERY
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303913
-#EXTINF:-1 tvg-id="" tvg-name="MY: DISCOVERY ASIA (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",DISCOVERY ASIA 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303914
-#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Discovery Science
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303915
-#EXTINF:-1 tvg-id="" tvg-name="MY: DISCOVERY_ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",DISCOVERY_ASIA
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303916
-#EXTINF:-1 tvg-id="" tvg-name="MY: DISNEY_JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",DISNEY_JUNIOR
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303917
-#EXTINF:-1 tvg-id="" tvg-name="MY: DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",DMAX
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303918
-#EXTINF:-1 tvg-id="" tvg-name="MY: DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", DW
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303919
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",EUROSPORT
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303922
-#EXTINF:-1 tvg-id="" tvg-name="MY: Eurosport (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Eurosport 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303923
-#EXTINF:-1 tvg-id="" tvg-name="MY: Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Food Network
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303924
-#EXTINF:-1 tvg-id="" tvg-name="MY: FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",FRANCE 24
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303925
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", HBO
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303933
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",HBO Family
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303934
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",HBO Hits
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303935
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",HISTORY
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303937
-#EXTINF:-1 tvg-id="" tvg-name="MY: HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", HITS
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303938
-#EXTINF:-1 tvg-id="" tvg-name="MY: Hits Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Hits Movies
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303939
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: iQIYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",iQIYI
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303941
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",KBS World
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303943
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",KIX
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303945
-#EXTINF:-1 tvg-id="" tvg-name="MY: KTV HD (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", KTV HD (D)
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303946
-#EXTINF:-1 tvg-id="" tvg-name="MY: Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Lifetime
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303947
-#EXTINF:-1 tvg-id="" tvg-name="MY: LIVE_Astro_SuperSport_Events_3_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", LIVE_Astro_SuperSport_Events_3_HD
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303948
-#EXTINF:-1 tvg-id="" tvg-name="MY: LIVE_Astro_SuperSport_Events_4_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",LIVE_Astro_SuperSport_Events_4_HD
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303949
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: LIVE_Astro_SuperSport_Events_6_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",LIVE_Astro_SuperSport_Events_6_HD
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303951
-#EXTINF:-1 tvg-id="" tvg-name="MY: Moonbug Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Moonbug Kids
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303952
-#EXTINF:-1 tvg-id="" tvg-name="MY: MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",MTV
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303953
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Nick JR
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303956
-#EXTINF:-1 tvg-id="" tvg-name="MY: NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", NICKELODEON
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303957
-#EXTINF:-1 tvg-id="" tvg-name="MY: NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", NTV7
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303958
-#EXTINF:-1 tvg-id="" tvg-name="MY: ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",ONE
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303959
-#EXTINF:-1 tvg-id="" tvg-name="MY: Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Paramount
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303960
-#EXTINF:-1 tvg-id="" tvg-name="MY: Phoenix News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",hoenix News
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303961
-#EXTINF:-1 tvg-id="" tvg-name="MY: PRIMEtime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",PRIMEtime
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303962
 
  
-#
-#EXTINF:-1 tvg-id="" tvg-name="MY: Showcase Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",Showcase Movies
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303966
-#EXTINF:-1 tvg-id="" tvg-name="MY: Sports SPO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Sports SPO TV
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303968
-#EXTINF:-1 tvg-id="" tvg-name="MY: SPOTV (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", SPOTV 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303969
-#EXTINF:-1 tvg-id="" tvg-name="MY: SPOTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",SPOTV2
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303970
-#EXTINF:-1 tvg-id="" tvg-name="MY: Sun Life (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Sun Life 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303971
-#EXTINF:-1 tvg-id="" tvg-name="MY: Sun News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Sun News
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303972
- "🇲🇾MALAYSIA🇲🇾"
-#EXTINF:-1 tvg-id="" tvg-name="MY: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",TLC
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303974
+ 
 
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",TV9
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303979
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",tvN
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303986
-#EXTINF:-1 tvg-id="" tvg-name="MY: TVN (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",TVN 
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303987
-#EXTINF:-1 tvg-id="" tvg-name="MY: tvN_Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",tvN_Movies
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303988
- 
-#EXTINF:-1 tvg-id="" tvg-name="MY: WARNER_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",WARNER_TV
-http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303993
+
 
  
 -------------------------------------------------------------KNOWLEDGE--------------------------------------------------
@@ -1744,18 +1535,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76744351
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
  -----------------------------------------LIFE STYLE-------------------------------------------------------------------
 
- 
-
- 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIFESTYLE", Dens Lifestyle
 http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
- 
-
- 
-
- 
-
- 
 #EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="LIFESTYLE", Fashion TV
 https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
  
@@ -1982,8 +1763,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8 
  
 ----------------------------------------------------------------BIOSKOP INDO---------------------------------------------- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="BIOSKOP INDO",40 Hari Bangkitnya Pocong
-https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="BIOSKOP INDO",Ada Hantu 2
 https://www.googleapis.com/drive/v3/files/164LWM_NfFZqxCfSbGtQ-Saq6h2EuifOD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
