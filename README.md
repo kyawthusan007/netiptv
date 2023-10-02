@@ -1279,35 +1279,35 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 1
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1722
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 2
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 2
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1721
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 3
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1720
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 4
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1719
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 5
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 5
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1713
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP4 HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP4 HD
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59217
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP3 HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP3 HD
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59218
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP HD
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59220
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP2 HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP2 HD
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59219
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 6
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 6
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71079
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro Premier 2
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Astro Premier 2
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71105
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO Rugby Pass
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",ASTRO Rugby Pass
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71108
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO Cricket
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",ASTRO Cricket
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71109
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 3
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71146
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ANIMAX
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",ANIMAX
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71100
 #EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",bEIN Sports 3
 http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71101
