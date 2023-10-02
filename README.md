@@ -2,7 +2,7 @@
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
  
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/NFxn8DMd/ENJOY.jpg" group-title="DANGDUT 🖥 IS MY LIFE",WELCOME STB MANIA                                   
-http://tvkuonline.my.id:25461/riyad/riyad/1
+http://31.40.216.56:61980/hls/live.m3u8?token=8lwqryyGINrCotw2cmIK2GkebvwTXZs7qdYQTc4lmS-JZp2rp72ZL4FiLGC1q3rovIghIf8C6hSA2evMvnega-VcpDsTWNQ1WrhvrchzFLv081-2vdqafMyjQ5SDL9uOr-qr6KA3IWAn8dn1PbUsb4hxb-QyoM3OaO0tnmH3bZGFsS9fRx8bzHwXg8qur7U87jNvlAylV_0ductob0Qmo3aRMhG8E8_SkurQ7zXEqME
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="DANGDUT 🖥 IS MY LIFE",REMBULAN MALAM
 https://www.dropbox.com/scl/fi/4n4cakr0yacm8laqry9z9/Rembulan-Malam-Difarina-Indra-feat-Fendik-Adella-OM-ADELLA.mp4?rlkey=e6008rikzc5tpgtvgsycqitcd&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="DANGDUT 🖥 IS MY LIFE",NEMU
