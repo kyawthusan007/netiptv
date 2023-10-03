@@ -935,8 +935,8 @@ https://nonton.site:8443/live/ekos/7483/49793.m3u8
 https://nonton.site:8443/live/ekos/7483/49794.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 https://nonton.site:8443/live/ekos/7483/46366.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 ---------------------------------------------SPORT-----------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 1
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF15VRqFW-8A1NwV3O2zcQ8L9-k7Tl2k99NMN4_a97rQ3d-691GHvC4598YTmGrXu0yFeMX7gJ3CkssI8sRhHD8FZBum5Y0SWVjesHeB55nxDGhjoqz_yDi5wWUeaxzRy_sHGvfPXRvEyw1lFwlxUYFfAZFJdru6Ler_eLkzmvoavAnXpIM2MYHW5O952tF6RHWgtbywQTR2vaEP-vGB2ONztbGaUHXsE2uBvuxOUx-8CUA2zbKT8EpvOiuRtkzGAzol4dGOSD_-ReMbYy1KNl3KAWrjpnJMAU97bGKczW2brw.m3u8?u=1696302183
