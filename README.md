@@ -518,19 +518,19 @@ https://nonton.site:8443/live/ekos/7483/46366.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 ---------------------------------------------SPORT-----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 1
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",SONY TEN 1
 http://sansat.net:25461/02037862739113/2376264842/93732
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 2
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",SONY TEN 2
 http://sansat.net:25461/02037862739113/2376264842/93733
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 3
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",BEIN SPORT
 http://starshare.live:8080/live/Pirates/Pirates/143062.ts
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 4
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",SPORT 2 HD
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 5
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 6
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",K+ SPORT 2
 http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 7
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",K+ SPORT 1
 http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Match Football 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️", Match Football 1
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45645
