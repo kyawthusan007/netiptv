@@ -23,8 +23,6 @@ https://www.dropbox.com/scl/fi/ev0hdtc8031lhehgiqo5v/PANTUN-JANDA-Difarina-Indra
 https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Cintamu-Satu-Rasa-Cinta-Album-Pop-Melayu.mp4?rlkey=6rispuxqxqc58rrrxqzpsr5go&dl=1
 
 --------------------------------------------------------------------LOKAL--------------------------------------------------------
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",MNCTV
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/165054
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", MNCTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -521,9 +519,9 @@ https://nonton.site:8443/live/ekos/7483/46366.m3u8
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 ---------------------------------------------SPORT-----------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 1
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF15VRqFW-8A1NwV3O2zcQ8L9-k7Tl2k99NMN4_a97rQ3d-691GHvC4598YTmGrXu0yFeMX7gJ3CkssI8sRhHD8FZBum5Y0SWVjesHeB55nxDGhjoqz_yDi5wWUeaxzRy_sHGvfPXRvEyw1lFwlxUYFfAZFJdru6Ler_eLkzmvoavAnXpIM2MYHW5O952tF6RHWgtbywQTR2vaEP-vGB2ONztbGaUHXsE2uBvuxOUx-8CUA2zbKT8EpvOiuRtkzGAzol4dGOSD_-ReMbYy1KNl3KAWrjpnJMAU97bGKczW2brw.m3u8?u=1696302183
+http://sansat.net:25461/02037862739113/2376264842/93732
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 2
-http://starshare.live:8080/live/Pirates/Pirates/150978.ts
+http://sansat.net:25461/02037862739113/2376264842/93733
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 3
 http://starshare.live:8080/live/Pirates/Pirates/143062.ts
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 4
