@@ -1358,14 +1358,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1-404c-ba21-df68a1cffcac)/manifest.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yPWK0Yp/20230520-103316.jpg" group-title="MOVIES", Rock Entertainment
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPF3cBhZ/20230520-103249.jpg" group-title="MOVIES", Rock Action
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwpKXfz/20230520-103444.jpg" group-title="MOVIES", THRILL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
