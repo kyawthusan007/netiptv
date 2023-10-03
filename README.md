@@ -532,9 +532,9 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
 http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 7
 http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Match Football 1" tvg-logo="http://gostiptv.vip:80/images/06c62046c1fb6cfd8f1d903623e6663c.png" group-title="▶️SPORTS◀️", Match Football 1
+#EXTINF:-1 tvg-id="" tvg-name="RUS: Match Football 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️", Match Football 1
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45645
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Match Football 2 HD" tvg-logo="http://gostiptv.vip:80/images/8e7c9df6c0dc4f85602455c0e043a651.png" group-title="▶️SPORTS◀️", Match Football 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="RUS: Match Football 2 HD" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️", Match Football 2 HD
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45646
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Match Football 3 HD" tvg-logo="http://gostiptv.vip:80/images/b369b1dcaa968c1bfb925dd24b8cffbf.jpg" group-title="▶️SPORTS◀️", Match Football 3 HD
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45647
