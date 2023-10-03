@@ -116,7 +116,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df935
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8ZrVdbN/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.m3u8
-------------------------------------------------TRANVISION----------------------------------------------------------------------------------
+------------------------------------------------TRANVISION--------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZbPYcpd/transvision-1.jpg", group-title="TRANSVISION", TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmoe5.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
