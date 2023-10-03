@@ -939,9 +939,7 @@ https://nonton.site:8443/live/ekos/7483/46366.m3u8
 
 ---------------------------------------------SPORT-----------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
-https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF15VRqFW-8A1NwV3O2zcQ8L9-k7Tl2k99NMN4_a97rQ3d-691GHvC4598YTmGrXu0yFeMX7gJ3CkssI8sRhHD8FZBum5Y0SWVjesHeB55nxDGhjoqz_yDi5wWUeaxzRy_sHGvfPXRvEyw1lFwlxUYFfAZFJdru6Ler_eLkzmvoavAnXpIM2MYHW5O952tF6RHWgtbywQTR2vaEP-vGB2ONztbGaUHXsE2uBvuxOUx-8CUA2zbKT8EpvOiuRtkzGAzol4dGOSD_-ReMbYy1KNl3KAWrjpnJMAU97bGKczW2brw.m3u8?u=1696302183
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 2
 http://starshare.live:8080/live/Pirates/Pirates/150978.ts
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",Champions League 3
