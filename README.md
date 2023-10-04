@@ -326,7 +326,7 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162591
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 6
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 7
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈", PREMIER LEAGUE​ 7
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 8
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
