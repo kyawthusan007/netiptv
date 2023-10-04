@@ -52,13 +52,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDykzbJV/SCTV-Logo.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV
 http://tvkuonline.my.id:25461/riyad/riyad/16
- 
- 
- 
- 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjQXfDkb/Moji-blue.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
- 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2pBHT0/Trans-TV1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
@@ -441,7 +436,7 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23853
 
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",PRO LIGA
-http://smartv.pro:80/live/828282/484848/39531.ts
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298550
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",VOLLY
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290365
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
