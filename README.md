@@ -53,9 +53,8 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDykzbJV/SCTV-Logo.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV
 http://tvkuonline.my.id:25461/riyad/riyad/16
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjQXfDkb/Moji-blue.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2pBHT0/Trans-TV1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2pBHT0/Trans-TV1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
