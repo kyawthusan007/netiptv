@@ -513,14 +513,11 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 ---------------------------------------------SPORT----------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1696402885~acl=/hls-p/ingest_6685_*/*~hmac=a79dcda1e7887a64a920b3ce32e28bfdbe877ec904dd9be8abb9e4d0fbd3ef53/hls-p/ingest_6685_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️", CHAMPION 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
-
+https://etslive-2-vidio-com.akamaized.net/exp=1696403143~acl=/hls-p/ingest_6686_*/*~hmac=24f1965306105de9e18ce50d53a100dc99441d8f92af2be9eff907930a3c0bed/hls-p/ingest_6686_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️", CHAMPION 3
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF15VRqFW-8A1NwV3O2zcQ8L9-k7Tl2k99NMN4_a97rQ3d8hZs31kevXtcXm2idxL7aFGVFQlZaqbEsYTjS_AKUxuysmGoTVU1pg3uI32-4cMZBdkLhFAPQ-yvAw43Lt-oOJzpn2-jjetGdFeNKUSEf_WOJW-pBv1JxukO0ij_W0GToG2sRZL9lUPuKENbOzJ490CGJnwyGtLaTDwEFYhPTtmzhhjzkxeiundzLFDz5YYVV1zEpzUWjBQtguq4AMYZawKn0LUgAv2CUM_kVkphJ8IHsdx21H-qamfYgLO9Yi8w.m3u8?u=1696388965
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",SONY TEN 1
 http://sansat.net:25461/02037862739113/2376264842/93732
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",SONY TEN 2
