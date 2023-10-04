@@ -377,14 +377,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&exten
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 2
 http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259290
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 3
-http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259291
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 4
-http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259292
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 5
-http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259293
 
 
 
