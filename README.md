@@ -495,7 +495,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE only 2
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE 3
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298531
+https://179720687.global.cdnfastest.com/live/sd-x7lm7phzkxdpm2w/chunklist_w100301072.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
