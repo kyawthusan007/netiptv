@@ -325,7 +325,8 @@ http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈", PREMIER LEAGUE​ 7
 http://194.62.214.111/play/live.php?mac=00:1A:79:BF:B3:83&stream=554953&extension=ts&play_token=opryIKYKOJ
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 8
-https://webudit.webdicdn.lol/lb/premium130/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -344,7 +345,7 @@ http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 1
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 2
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=692383&extension=ts&play_token=SdRCQMYhc7
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 3
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=692322&extension=ts&play_token=j0EcaqQhY1
