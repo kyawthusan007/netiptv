@@ -983,14 +983,14 @@ http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3010.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3011.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197964
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmoe5.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
  
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN: SONY PIX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="MOVIES", SONY PIX HD
 http://kuchini.site:8080/mantul/2029fde156/49539
 #EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" group-title="MOVIES", Cinemachi HD
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://kuchini.site:8080/4ktezz/YMTYTR6eUVjsx8CQ/165082
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/236x0-icon.png" group-title="MOVIES", Cinemachi Action
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
