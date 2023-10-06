@@ -27,33 +27,25 @@ https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Ci
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rcti.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RCTI HD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rcti.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png"
-group-title="🇮🇩 NASIONAL 🇮🇩", GTV
-https://nonton.site:8443/live/ekos/7483/49285.m3u8
-#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/inews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews v
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews v
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/inews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",iNews
-https://nonton.site:8443/live/ekos/7483/49286.m3u8
-#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV
 http://tvkuonline.my.id:25461/riyad/riyad/16
-#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/moji.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
