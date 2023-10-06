@@ -27,58 +27,58 @@ https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Ci
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RCTI HD
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rcti.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rcti.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",GTV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/gtv.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",GTV
 https://nonton.site:8443/live/ekos/7483/49285.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/inews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews v
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/MZmYmWL6/iNEWS.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",iNews
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/inews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",iNews
 https://nonton.site:8443/live/ekos/7483/49286.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDykzbJV/SCTV-Logo.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV
 http://tvkuonline.my.id:25461/riyad/riyad/16
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjQXfDkb/Moji-blue.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/moji.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2pBHT0/Trans-TV1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/trans_tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2pBHT0/Trans-TV1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/trans_tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50682TWZ/trans-7-tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans 7 HD
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/trans_7.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans 7 HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50682TWZ/trans-7-tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans 7
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/trans_7.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
  
  
  
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv5LfgBY/antv1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", ANTV
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/antv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", ANTV
 https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv5LfgBY/antv1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", ANTV
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/antv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", ANTV
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq8GYBBG/rtv.jpg" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
 https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ07ts06/NET-TV1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", NET. HD
@@ -88,27 +88,27 @@ http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/80292
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZFxTKhJ/kompas1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV HD
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/kompas_tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15kp19wT/20230518-220911.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/kompas_tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rswcLbn3/metro.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/metro_tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rswcLbn3/metro.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/metro_tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkymHbzY/tvone.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", TVONE HD
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvone.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", TVONE HD
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkymHbzY/tvone.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", TVONE HD*
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvone.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", TVONE HD*
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.m3u8
  
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8ZrVdbN/cnn.pngg" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/cnn_indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8ZrVdbN/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
+#EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/cnn_indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.m3u8
 
 
