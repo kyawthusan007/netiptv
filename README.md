@@ -522,7 +522,7 @@ https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️", CHAMPION 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
+#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️", CHAMPION 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
