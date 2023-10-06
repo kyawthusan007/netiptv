@@ -33,7 +33,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/rcti.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/gtv.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",GTV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png"
+group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",GTV
 https://nonton.site:8443/live/ekos/7483/49285.m3u8
 #EXTINF:-1 tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
