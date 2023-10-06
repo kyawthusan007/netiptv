@@ -27,11 +27,11 @@ https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Ci
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RCTI HD
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",GTV
 https://nonton.site:8443/live/ekos/7483/49285.m3u8
