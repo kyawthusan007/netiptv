@@ -23,7 +23,7 @@ https://www.dropbox.com/scl/fi/ev0hdtc8031lhehgiqo5v/PANTUN-JANDA-Difarina-Indra
 https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Cintamu-Satu-Rasa-Cinta-Album-Pop-Melayu.mp4?rlkey=6rispuxqxqc58rrrxqzpsr5go&dl=1
 
 --------------------------------------------------------------------LOKAL--------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", MNCTV HD
+#EXTINF:-1 tvg-logo=https://photos.app.goo.gl/ynXagdxEguLCS1Q36"" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", MNCTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
