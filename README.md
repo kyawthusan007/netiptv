@@ -604,7 +604,7 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/P45kctC/sony-1.jpg" group-title="▶️SPORTS◀️",SONY TEN 1
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",SONY TEN 2
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/mBXzG25/sony-2.jpg" group-title="▶️SPORTS◀️",SONY TEN 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",BEIN SPORT
 http://starshare.live:8080/live/Pirates/Pirates/143062.ts
@@ -891,34 +891,34 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109" group-title="▶️SPORTS◀️", UNIFY SPORT2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 -----------------------------------------------------------------YACINE TV--------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS 1
 http://starshare.live:8080/live/Pirates/Pirates/206985.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2
 http://starshare.live:8080/live/Pirates/Pirates/206986.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3
 http://starshare.live:8080/live/Pirates/Pirates/206987.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  4
 http://starshare.live:8080/live/Pirates/Pirates/206988.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  5
 http://starshare.live:8080/live/Pirates/Pirates/206989.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  6
 http://starshare.live:8080/live/Pirates/Pirates/206990.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  7
 http://starshare.live:8080/live/Pirates/Pirates/206991.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  1 ENGLISH 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  1 ENGLISH 4K
 http://4k.boxip.org:8080/698018479252002/2063753535/110746.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2 ENGLISH 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2 ENGLISH 4K
 http://4k.boxip.org:8080/698018479252002/2063753535/110747.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3 ENGLISH 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3 ENGLISH 4K
 http://4k.boxip.org:8080/698018479252002/2063753535/110748.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  1 UHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  1 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106636.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2 UHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106637.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3 UHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106638.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  4 UHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  4 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106639.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  5 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106640.ts 
