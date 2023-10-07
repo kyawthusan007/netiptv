@@ -340,11 +340,8 @@ http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 1
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 2
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 3
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=692322&extension=ts&play_token=j0EcaqQhY1
-#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 4
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
