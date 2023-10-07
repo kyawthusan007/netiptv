@@ -606,16 +606,9 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",SONY TEN 1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Six" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/73301e189b695b51e416e9631ee986a8.png" group-title="India ➾ Movie",IN: Sony Six
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/4853
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="India ➾ Sports",IN: Sony Sports Ten 1
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/16622
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="India ➾ Sports",IN: Sony Sports Ten 2
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/16621
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="India ➾ Sports",IN: Sony Sports Ten 3
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/56191
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",SONY TEN 2
-http://sansat.net:25461/02037862739113/2376264842/93733
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",BEIN SPORT
 http://starshare.live:8080/live/Pirates/Pirates/143062.ts
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",SUPERSPORT
