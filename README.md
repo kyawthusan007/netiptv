@@ -300,40 +300,40 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3
 
 
 ------------------------------------------------------------------------------liga eropa-------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 1
 http://starshare.live:8080/live/Agness/Agness/98867.ts
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
  
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 4
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 4
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162591
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 6
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 6
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈", PREMIER LEAGUE​ 7
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈", PREMIER LEAGUE​ 7
 http://194.62.214.111/play/live.php?mac=00:1A:79:BF:B3:83&stream=554953&extension=ts&play_token=opryIKYKOJ
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 8
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 8
 http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 9
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
 https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA
+#EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 1
 http://starshare.live:8080/live/Agness/Agness/6625.ts
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈"​,LA LIGA 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="👉LIGA EROPA👈"​,LA LIGA 2
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/44473
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 3
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
