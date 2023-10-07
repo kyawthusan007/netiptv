@@ -335,39 +335,39 @@ http://starshare.live:8080/live/Agness/Agness/6625.ts
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/44473
 #EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 3
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 1
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 1
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
-#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 2
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 2
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 3
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 3
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=692322&extension=ts&play_token=j0EcaqQhY1
-#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 4
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkShsxND/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126919
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkShsxND/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126946
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkShsxND/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126935
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8JPJDh/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8JPJDh/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6097/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8JPJDh/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈", BUNDES LIGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈", BUNDES LIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwsLmS0/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwsLmS0/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 2
 http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259290
 
 
