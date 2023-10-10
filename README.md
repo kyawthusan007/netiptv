@@ -696,10 +696,10 @@ http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3246.ts
 
  
 ----------------------------------------------------MOVIES-------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.postimg.cc/wTgGGfhr/HBO.jpg" group-title="MOVIES", HBO fhd
-http://kuchini.site:8080/4ktezz/YMTYTR6eUVjsx8CQ/197972
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.postimg.cc/wTgGGfhr/HBO.jpg" group-title="MOVIES", HBO HD
+https://nonton.site:8443/live/ekos/7483/210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/V9nWWtY/HBO-SIGNATURE.png" group-title="MOVIES",HBO SIGNATURE
-http://kuchini.site:8080/4ktezz/YMTYTR6eUVjsx8CQ/221948
+https://nonton.site:8443/live/ekos/7483/873.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3010.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
