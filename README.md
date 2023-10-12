@@ -988,8 +988,7 @@ http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298494
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298495
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqbkWyFg/TOM.jpg" group-title="KIDS"​,TOM AND JERY
 http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298500
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6DQT6w4/IPIN.jpg" group-title="KIDS"​,IPIN UPIN
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298501
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0v34qLz/Round-Photo-Sep092022-001103.png" group-title="KIDS", MIAOMI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
