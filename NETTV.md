@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="PAY PAR VIEW",PPV 
 https://7f488b67.cubetecn.com:1452/list_3453021240_2751569739_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="PAY PAR VIEW",PPV 
-https://5d488b67.cubetecn.com:1446/list_3457202883_2717391854_0.m3u8
+https://645288a9.cubetecn.com:1473/list_3453009503_2671785967_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="PAY PAR VIEW",PPV 
 https://5d488b67.cubetecn.com:1446/list_3457202883_2717391854_0.m3u8
 
