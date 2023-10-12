@@ -26,11 +26,11 @@ https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Ci
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
 http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/165054
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RCTI HD
-https://nonton.site:8443/live/ekos/7483/49251.m3u8
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/157591
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
-https://nonton.site:8443/live/ekos/7483/49285.m3u8
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/157578
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews v
-https://nonton.site:8443/live/ekos/7483/49286.m3u8
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/157579
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
