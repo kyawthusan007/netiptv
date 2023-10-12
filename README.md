@@ -1,5 +1,5 @@
--------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
-                                     JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
+-------------------------------NETTV FOR MEMBERS TO SHARE THE APP AND PALYLIST FOR FREE-----------------------
+                                     DO NOT SELL, PERSONAL USE ONLY
  
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="DANGDUT 🖥 IS MY LIFE",WELCOME STB MANIA 
 http://tvkuonline.my.id:25461/riyad/riyad/1
