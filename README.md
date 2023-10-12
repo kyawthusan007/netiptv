@@ -701,7 +701,7 @@ https://nonton.site:8443/live/ekos/7483/210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/V9nWWtY/HBO-SIGNATURE.png" group-title="MOVIES",HBO SIGNATURE
 https://nonton.site:8443/live/ekos/7483/873.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
-http://rr1.dens.tv/h/h37/index.m3u8
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/196480
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3011.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
@@ -979,15 +979,15 @@ http://210.210.155.37/qwr9ew/s/s31/index.m3u8
  
 --------------------------------------------------------KIDS---------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1SxvQDd/DORAEMON.jpg" group-title="KIDS",DORAEMON
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298496
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298496
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQdxFSdB/ANGRYBID.jpg" group-title="KIDS"​,ANGRY BIRD
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298493
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298493
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44Ws28NZ/BABYBUS.png" group-title="KIDS"​,BABY BUS
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298494
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298494
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4xbTpdC/DONALD.jpg" group-title="KIDS"​,DONALD DUCK
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298495
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298495
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqbkWyFg/TOM.jpg" group-title="KIDS"​,TOM AND JERY
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298500
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298500
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6DQT6w4/IPIN.jpg" group-title="KIDS"​,IPIN UPIN
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298501
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0v34qLz/Round-Photo-Sep092022-001103.png" group-title="KIDS", MIAOMI
