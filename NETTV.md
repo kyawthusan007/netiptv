@@ -2,7 +2,7 @@
                                      DO NOT SELL, PERSONAL USE ONLY
  
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="PAY PAR VIEW",PPV 
-https://7f488b67.cubetecn.com:1452/list_3453021240_2751569739_0.m3u8
+https://527d88a9.cubetecn.com:1445/list_3457295164_2216934900_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="PAY PAR VIEW",PPV 
 https://645288a9.cubetecn.com:1473/list_3453009503_2671785967_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="PAY PAR VIEW",PPV 
