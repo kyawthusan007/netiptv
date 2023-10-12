@@ -207,7 +207,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE  2
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE INDONESIA VS BRUNAI
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 4
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
