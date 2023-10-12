@@ -1,4 +1,4 @@
-#EXTM3U
+-------------------------------NETTV FOR MEMBERS TO SHARE THE APP AND PALYLIST FOR FREE----------------------- DO NOT SELL, PERSONAL USE ONLY
 #EXTINF:-1 , Buddha TV (Testing)
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXtRVWlwv597G0NILGwS3Cg/ts
 #EXTINF:-1 , မဟာဗောဓိ
