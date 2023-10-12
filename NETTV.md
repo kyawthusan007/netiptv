@@ -6,7 +6,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="NO DELAY ON DISH",PPV 
 http://tvkuonline.my.id:25461/riyad/riyad/1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="NO DELAY ON DISH",PPV 
-http://tvkuonline.my.id:25461/riyad/riyad/1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ss9eB8jcYrQ?si=wWDMWIZpcodp2gY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 --------------------------------------------------------------------LOCAL--------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
