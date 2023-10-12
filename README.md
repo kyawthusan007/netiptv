@@ -974,7 +974,7 @@ http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298495
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqbkWyFg/TOM.jpg" group-title="KIDS"​,TOM AND JERY
 http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298500
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yV5qxkL/Animax-old-logo.png", group-title="KIDS"​,ANIMAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/165081
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNvtykP/Boomerang-Logo.png", group-title="KIDS"​,BOOMERANG
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
