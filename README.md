@@ -179,6 +179,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 
 
 --------------------------------------------------------LIVE ONLY--------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",INDONESIA VS BRUNAI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 1
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE  2
