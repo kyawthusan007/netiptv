@@ -398,9 +398,7 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/55
 http://magott.net:80/okota380/RvPBwTrjvRPM/57
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="▶️SPORTS◀️",astro Super Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-http://1.yurend.xyz/dash-wv/linear/1601/default_primary.mpd
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/146068
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
 http://blue4k.net:8880/milad0406/Andrews2022/318917
@@ -703,7 +701,7 @@ https://nonton.site:8443/live/ekos/7483/210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/V9nWWtY/HBO-SIGNATURE.png" group-title="MOVIES",HBO SIGNATURE
 https://nonton.site:8443/live/ekos/7483/873.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3010.m3u8
+http://rr1.dens.tv/h/h37/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3011.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
