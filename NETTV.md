@@ -3,8 +3,10 @@
  
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="NO DELAY ON DISH",PPV 
 http://tvkuonline.my.id:25461/riyad/riyad/1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="DANGDUT 🖥 IS MY LIFE",PPV 
-https://networktelevisionwebsite.on.drv.tw/nettv/co/
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="NO DELAY ON DISH",PPV 
+http://tvkuonline.my.id:25461/riyad/riyad/1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="NO DELAY ON DISH",PPV 
+http://tvkuonline.my.id:25461/riyad/riyad/1
 
 --------------------------------------------------------------------LOCAL--------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
