@@ -26,7 +26,7 @@ https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Ci
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
 http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/165054
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RCTI HD
-http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/157591
+https://cdn.thomasandi.my.id/coba/vision/keyvis.php?id=RCTI-DD&token=WLHoyZQp20b5m2Rs_K9i2sqi3GW=4gSCouq
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 http://streamtv.balatack.my.id:8080/F30140/f3de2280/157591
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
