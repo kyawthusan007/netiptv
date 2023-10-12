@@ -195,10 +195,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extens
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
 http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1426
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298571
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, BWF 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -362,13 +359,9 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298577
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="▶️SPORTS◀️", Usee Sport 2
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298578 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvNCzk0j/spotv.png" group-title="▶️SPORTS◀️", SPOTV
-https://anv-live-cdn-118.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298570
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jtbTG3r/spotv2.png" group-title="▶️SPORTS◀️", SPOTV 2
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298571
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="▶️SPORTS◀️", SPORTSTAR
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
