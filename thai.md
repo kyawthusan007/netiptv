@@ -1,5 +1,7 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="🚩LIVE EVENT🚩",CH3 HD https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 1 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="🚩LIVE EVENT🚩",CH3 HD 
+https://cdn104.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/chunklist_w1555600771_b1000000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=6c459f3f90&did=WEpILXB2VjBXQzd3a215cDhFSE5ZLUhkSzR4Z0JxU1I&mpass=oSlAuw-KEzWuoe-uszmj2O3wrdLf409XBlFnusiuw61Ro7z71ybDAAggpmuwSZQqUtEdRavITgCnsdpTiLC3CGUrENe-3jVrjrhMx3Ej75YgINlKm_Yfs2KIpIVKC9EeYfA&sid=54981b76aa&rt=1698838163&ds=86400&tk=H_AQy9IAOf6ky4Lag7vUZBYaaE2J6qTZldnmrfJtMZs
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 1 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 1 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 1 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
@@ -7,7 +9,7 @@
 {
 name:"CH3 HD",
 image:"",
-url:"https://cdn104.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/chunklist_w1555600771_b1000000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=6c459f3f90&did=WEpILXB2VjBXQzd3a215cDhFSE5ZLUhkSzR4Z0JxU1I&mpass=oSlAuw-KEzWuoe-uszmj2O3wrdLf409XBlFnusiuw61Ro7z71ybDAAggpmuwSZQqUtEdRavITgCnsdpTiLC3CGUrENe-3jVrjrhMx3Ej75YgINlKm_Yfs2KIpIVKC9EeYfA&sid=54981b76aa&rt=1698838163&ds=86400&tk=H_AQy9IAOf6ky4Lag7vUZBYaaE2J6qTZldnmrfJtMZs",
+url:"",
 "referer": "https://tv.trueid.net/th-th",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 "playInNatPlayer": "true"
