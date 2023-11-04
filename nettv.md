@@ -1,16 +1,30 @@
 -------------------------------NETTV FOR MEMBERS TO SHARE THE APP AND PALYLIST FOR FREE-----------------------
                                      DO NOT SELL, PERSONAL USE ONLY
 
----------------------------------------------------PPV---------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="PAY PAR VIEW",PPV 
-https://527d88a9.cubetecn.com:1445/list_3457295164_2216934900_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="PAY PAR VIEW",PPV 
-https://645288a9.cubetecn.com:1473/list_3453009503_2671785967_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/5td9dgMx/NetTV.png" group-title="PAY PAR VIEW",PPV 
-https://5d488b67.cubetecn.com:1446/list_3457202883_2717391854_0.m3u8
+-----------------------------------------------------LIVE EVENT---------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 1
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 2
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 3
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 4
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 5
+https://nonton.site:8443/live/ekos/7483/49793.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 6
+https://nonton.site:8443/live/ekos/7483/49794.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 7
+https://nonton.site:8443/live/ekos/7483/46366.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 8
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 9
+https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
 --------------------------------------------------------------LOCAL--------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -87,19 +101,26 @@ https://nonton.site:8443/live/ekos/7483/136.m3u8
 ------------------------------------------------------liga eropa-------------------------------------------------------------
 #EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 1
 http://starshare.live:8080/live/Agness/Agness/98867.ts
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 3
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162591
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 4
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈", PREMIER LEAGUE​ 6
 http://194.62.214.111/play/live.php?mac=00:1A:79:BF:B3:83&stream=554953&extension=ts&play_token=opryIKYKOJ
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 7
 http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
@@ -112,63 +133,55 @@ http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 1
 http://starshare.live:8080/live/Agness/Agness/6625.ts
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="👉LIGA EROPA👈"​,LA LIGA 2
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/44473
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 3
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 1
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
+
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 2
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
- #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 3
+
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126919
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126946
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126935
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6097/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈", BUNDES LIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwsLmS0/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwsLmS0/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 2
 http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259290
-
------------------------------------------------------LIVE EVENT---------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 1
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 2
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 3
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 4
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 5
-https://nonton.site:8443/live/ekos/7483/49793.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 6
-https://nonton.site:8443/live/ekos/7483/49794.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 7
-https://nonton.site:8443/live/ekos/7483/46366.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 8
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",LIVE 9
-https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
 ---------------------------------------------MLS SPORT----------------------------------------------------------
 
