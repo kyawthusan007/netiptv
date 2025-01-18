@@ -1686,7 +1686,12 @@ https://webudit.salamus1.lol/lb/premium384/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/swpb44zffvl7zk1/visionprime.png" group-title="LIFESTYLE", Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-------------------------------------------------------STARMOVIE--------------------------------------------------
+------------------------------------------------------2025 MOVIES--------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brTRYvFS/Monster-Hunt.png" group-title="MOVIE 2025",Monster Hunt
+http://www.zegomovie.com/Videos/MonsterHunt/index.m3u8
+
+------------------------------------------------------2023 MOVIES--------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/bwJZzeLOrYpLJiVluYm2t5xLWva.jpg" group-title="MOVIE 2023",The Mother 2023
 https://www.googleapis.com/drive/v3/files/1w5f-_huKCTI-g9FmWCYhx_sS-1gtRgo3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
